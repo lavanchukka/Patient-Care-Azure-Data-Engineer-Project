@@ -1,5 +1,6 @@
 # Hospital Patient Flow - Azure Data Engineer Project
 ![Azure Data Factory](https://img.shields.io/badge/Azure-Data%20Factory-blue?logo=microsoft-azure&style=flat-square)
+![Azure Event Hubs](https://img.shields.io/badge/Azure-Event%20Hubs-blue?logo=microsoft-azure&style=flat-square)
 ![Azure Synapse](https://img.shields.io/badge/Azure-Synapse%20Analytics-blue?logo=microsoft-azure&style=flat-square)
 ![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-orange?logo=apache-spark&style=flat-square)
 ![Databricks](https://img.shields.io/badge/Databricks-PySpark-red?logo=databricks&style=flat-square)
